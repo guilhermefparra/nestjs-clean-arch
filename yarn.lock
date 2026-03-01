@@ -435,6 +435,11 @@
     "@eslint/core" "^0.17.0"
     levn "^0.4.1"
 
+"@faker-js/faker@^10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-10.3.0.tgz#d56b68e4f1dd090152029fe91d2f8505389947f2"
+  integrity sha512-It0Sne6P3szg7JIi6CgKbvTZoMjxBZhcv91ZrqrNuaZQfB5WoqYYbzCUOq89YR+VY8juY9M1vDWmDDa2TzfXCw==
+
 "@fastify/ajv-compiler@^4.0.5":
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/@fastify/ajv-compiler/-/ajv-compiler-4.0.5.tgz#fdb0887a7af51abaae8c1829e8099d34f8ddd302"
@@ -1043,6 +1048,11 @@
     iterare "1.2.1"
     path-to-regexp "8.3.0"
     tslib "2.8.1"
+
+"@nestjs/mapped-types@*":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-2.1.0.tgz#b9b536b7c3571567aa1d0223db8baa1a51505a19"
+  integrity sha512-W+n+rM69XsFdwORF11UqJahn4J3xi4g/ZEOlJNL6KoW5ygWSmBB2p0S2BZ4FQeS/NDH72e6xIcu35SfJnE8bXw==
 
 "@nestjs/platform-express@^11.0.1":
   version "11.1.14"
